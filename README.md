@@ -5,7 +5,7 @@
 Industrial Engineering undergraduate student at <a href="https://www.unb.br/">Universidade de Brasilia (UnB)</a>, Operations Research teacher assistant, member of the IEEE Computational Intelligence Society Student Chapter and volunteer organizer of monthly English conversation meetings for Engineering students at the Faculty of Technology.
 
 - 👨🏻‍💻 Passionate about **Data Science, Optimization and Simulation**
-- 🏋 I really enjoy **weigthlifting**
+- 🏋 I really enjoy **weightlifting**
 - 🖥️ Currently more focused on:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
