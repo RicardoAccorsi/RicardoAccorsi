@@ -2,7 +2,7 @@
 
 ##
 
-Industrial Engineering undergraduate student at Universidade de Brasilia (UnB), Operations Research teacher assistant, Member of the IEEE Computational Intelligence Society Student Chapter and volunteer organizer of monthly English conversation meetings for engineering students at the Faculty of Technology.
+Industrial Engineering undergraduate student at Universidade de Brasilia (UnB), Operations Research teacher assistant, member of the IEEE Computational Intelligence Society Student Chapter and volunteer organizer of monthly English conversation meetings for engineering students at the Faculty of Technology.
 
 - 👨🏻‍💻 Passionate about **Data Science, Optimization and Simulation**
 - 🏋 I really enjoy **weigthlifting**
