@@ -12,7 +12,6 @@ Industrial Engineering undergraduate student at <a href="https://www.unb.br/">Un
   &nbsp;&nbsp;<img width='50' height='50' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/julia/julia-original-wordmark.svg" />&nbsp;&nbsp;
 </div><br>
 
 > "Great things are not done by impulse, but by a series of small things brought together." - Vincent van Gogh
