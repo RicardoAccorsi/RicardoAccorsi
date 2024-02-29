@@ -1,16 +1,18 @@
-### Hi there 👋
+### Ricardo Accorsi
+Industrial Engineering undergraduate student at Universidade de Brasilia (UnB), Operations Research teacher assistant, Member of the IEEE Computational Intelligence Society Student Chapter and volunteer organizer of monthly English conversation meetings for engineering students at the Faculty of Technology.
 
-<!--
-**RicardoAccorsi/RicardoAccorsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 Passionate about **Data Science, Optimization and Simulation**
+- 🏋 I really enjoy weigthlifting
+- 🖥️ Currently more focused on:
+<div style="display: inline">
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />&nbsp;&nbsp;
+</div> 
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can also find me on:
+&nbsp;<a href="https://www.linkedin.com/in/ricardoaccorsi/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
