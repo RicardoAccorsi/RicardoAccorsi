@@ -7,7 +7,6 @@ B.Sc. in Industrial Engineering, <a href="https://www.unb.br/">Universidade de B
 
 I design data-driven systems to tackle complex challenges in healthcare and beyond, using Machine Learning, Optimization, and Simulation to drive real-world impact.
 
-  ##
   ## Languages
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
