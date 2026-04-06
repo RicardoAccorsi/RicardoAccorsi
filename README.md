@@ -10,7 +10,7 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
   ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://ra.githubusercontent.com/devicons/devicon/master/icons/r/r-plain.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-plain.svg">
 </div>
 
 - 🖥️ Currently more focused on:
