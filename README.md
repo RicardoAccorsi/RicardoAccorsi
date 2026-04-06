@@ -16,6 +16,7 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
 
 ## Tools & Technologies
 <div align="left "style="display: inline_block">
+  <img src="https://img.shields.io/badge/ARENA%20SIMULATION-blue" />
   <img src="https://img.shields.io/badge/Numpy-4F0599?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
