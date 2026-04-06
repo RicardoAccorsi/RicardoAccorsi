@@ -8,6 +8,16 @@ B.Sc. in Industrial Engineering, <a href="https://www.unb.br/">Universidade de B
 
 I design data-driven systems to tackle complex challenges in healthcare and beyond, using Machine Learning, Optimization, and Simulation to drive real-world impact.
 
+# Estatísticas
+
+![](https://github-readme-stats.vercel.app/api?username=RicardoAccorsi&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RicardoAccorsi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAccorsi&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RicardoAccorsi&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+
 - 🖥️ Currently more focused on:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
