@@ -7,17 +7,17 @@ B.Sc. in Industrial Engineering, <a href="https://www.unb.br/">Universidade de B
 
 I design data-driven systems to tackle complex challenges in healthcare and beyond, using Machine Learning, Optimization, and Simulation to drive real-world impact.
 
-  ## Languages
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 </div>
+
 
 ## Tools & Technologies
 <div align="left "style="display: inline_block">
-  <img src="https://img.shields.io/badge/rDEA-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PuLP-violet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/rDEA-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -31,13 +31,13 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
   <img src="https://img.shields.io/badge/ZOTERO-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BIBLIOSHINY-blue?style=for-the-badge" />
 </div>
-
+<!--
 ## GitHub Stats
 <div align="center "style="display: inline_block">
   <img height="250em" src="https://streak-stats.demolab.com?user=RicardoAccorsi&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAccorsi&langs_count=7&theme=ayu-mirage&border_radius=20"/>
 </div>
-
+-->
 
 ![snake gif](https://github.com/RicardoAccorsi/RicardoAccorsi/blob/output/github-contribution-grid-snake.svg)
 
