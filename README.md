@@ -2,10 +2,10 @@
 
 ##
 
-Industrial Engineering undergraduate student at <a href="https://www.unb.br/">Universidade de Brasilia (UnB)</a>, Operations Research teacher assistant, member of the IEEE Computational Intelligence Society Student Chapter and volunteer organizer of monthly English conversation meetings for Engineering students at the Faculty of Technology.
+Incoming PhD student in **Operations Research** at <a href="https://www.isye.gatech.edu/">Georgia Tech (ISyE)</a>.
+B.Sc. in Industrial Engineering, <a href="https://www.unb.br/">Universidade de Brasília (UnB)</a> - 1st in class, highest GPA in program history.
+I design data-driven systems to tackle complex challenges in healthcare and beyond, using Machine Learning, Optimization, and Simulation to drive real-world impact.
 
-- 👨🏻‍💻 Passionate about **Data Science, Optimization and Simulation**
-- 🏋 I really enjoy **weightlifting**
 - 🖥️ Currently more focused on:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
@@ -14,7 +14,7 @@ Industrial Engineering undergraduate student at <a href="https://www.unb.br/">Un
   &nbsp;&nbsp;<img width='50' height='50' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />&nbsp;&nbsp;
 </div><br>
 
-> "Great things are not done by impulse, but by a series of small things brought together." - Vincent van Gogh
+> "If you can dream it, you can do it." - Walt Disney
 
 ##
 
