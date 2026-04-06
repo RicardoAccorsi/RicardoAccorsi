@@ -8,10 +8,12 @@ B.Sc. in Industrial Engineering, <a href="https://www.unb.br/">Universidade de B
 I design data-driven systems to tackle complex challenges in healthcare and beyond, using Machine Learning, Optimization, and Simulation to drive real-world impact.
 
   ##
+  ### Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg">
 </div>
 
 - 🖥️ Currently more focused on:
