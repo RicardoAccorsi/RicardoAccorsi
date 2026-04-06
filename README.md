@@ -18,6 +18,21 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
 <div align="left "style="display: inline_block">
   <img src="https://img.shields.io/badge/ARENA%20SIMULATION-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HUGGING%20FACE-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OLLAMA-white?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/NEO4J-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/N8N-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AUTOGLUON-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BIBLIOSHINY-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ZOTERO-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PuLP-violet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/rDEA-purple?style=for-the-badge" />
+  
+
+  
+
+
+
   <img src="https://img.shields.io/badge/Numpy-4F0599?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
