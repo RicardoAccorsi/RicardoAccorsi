@@ -27,19 +27,9 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
   <img src="https://img.shields.io/badge/ZOTERO-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PuLP-violet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/rDEA-purple?style=for-the-badge" />
-  
-
-  
-
-
-
-  <img src="https://img.shields.io/badge/Numpy-4F0599?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 </div>
 
 
