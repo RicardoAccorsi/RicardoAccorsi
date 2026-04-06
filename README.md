@@ -24,7 +24,6 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
 </div>
 
 ### You can also find me on:
-##
 &nbsp;<a href="https://www.linkedin.com/in/ricardoaccorsi/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
