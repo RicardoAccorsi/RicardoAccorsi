@@ -39,6 +39,9 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
 </div>
 
 
+![snake gif](https://github.com/RicardoAccorsi/RicardoAccorsi/blob/output/github-contribution-grid-snake.svg)
+
+
 ## You Can Also Find Me Here
 <div style="display: inline_block">
 &nbsp;<a href="https://www.linkedin.com/in/ricardoaccorsi/">
