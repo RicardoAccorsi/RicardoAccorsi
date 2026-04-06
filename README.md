@@ -15,7 +15,7 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg">
 </div>
 
-## Technologies
+## Tools & Technologies
 <div align="left "style="display: inline_block">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
@@ -44,7 +44,7 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
 </div>
 
 
-## You can also find me on:
+## You Can Also Find Me On:
 <div style="display: inline_block">
 &nbsp;<a href="https://www.linkedin.com/in/ricardoaccorsi/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
