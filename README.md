@@ -22,6 +22,7 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg">
 </div>
+
 ##
 
 ### You can also find me on:
