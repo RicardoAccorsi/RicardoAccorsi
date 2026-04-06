@@ -3,7 +3,9 @@
 ##
 
 Incoming PhD student in **Operations Research** at <a href="https://www.isye.gatech.edu/">Georgia Tech (ISyE)</a>.
+
 B.Sc. in Industrial Engineering, <a href="https://www.unb.br/">Universidade de Brasília (UnB)</a> - 1st in class, highest GPA in program history.
+
 I design data-driven systems to tackle complex challenges in healthcare and beyond, using Machine Learning, Optimization, and Simulation to drive real-world impact.
 
 - 🖥️ Currently more focused on:
