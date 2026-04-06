@@ -20,6 +20,7 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
   <img src="https://img.shields.io/badge/PuLP-violet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/HUGGING%20FACE-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AUTOGLUON-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OLLAMA-white?style=for-the-badge&labelColor=black" />
