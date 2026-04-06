@@ -39,7 +39,7 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
 </div>
 -->
 
-![snake gif](https://github.com/RicardoAccorsi/RicardoAccorsi/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/RicardoAccorsi/RicardoAccorsi/output/snake.svg" alt="Snake animation" />
 
 
 ## You Can Also Find Me Here
