@@ -32,6 +32,12 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
   <img src="https://img.shields.io/badge/BIBLIOSHINY-blue?style=for-the-badge" />
 </div>
 
+## Github Stats
+<div align="center "style="display: inline_block">
+  <img height="250em" src="https://streak-stats.demolab.com?user=RicardoAccorsi&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAccorsi&langs_count=7&theme=ayu-mirage&border_radius=20"/>
+</div>
+
 
 ## You Can Also Find Me Here
 <div style="display: inline_block">
