@@ -15,16 +15,6 @@ I design data-driven systems to tackle complex challenges in healthcare and beyo
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg">
 </div><br>
 
-- 🖥️ Currently more focused on:
-<div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />&nbsp;&nbsp;
-</div><br>
-
-> "If you can dream it, you can do it." - Walt Disney
-
 ##
 
 ### You can also find me on:
